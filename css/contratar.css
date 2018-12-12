@@ -1,0 +1,253 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: arial;
+}
+body{
+	background: #D7DBDD;
+}
+.container{
+	width: 50%;
+	margin: 0 auto;
+}
+.logo{
+	width: 100%;
+	color: white;
+	background: white;
+
+}
+.logo img{
+	margin-left: 20%;
+}
+.big{
+	font-size: 50px;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+.uno{
+	font-size: 15px;
+	color: gray;
+}
+.primero{
+	border: 2px solid #E91E63;
+	width: 70%;
+	height: 200px;
+	margin-left: 15%;
+	margin-top: 5%
+}
+.elijauno{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 100%
+}
+.es{
+
+	margin: 10px 10px;
+}
+
+.field{
+	border-color: red;
+	text-align: left;  
+	width: 70%; 
+	height: 300px;
+	margin-left: 17%;
+	margin-top: 5%;
+
+}
+.field ul{
+	list-style: none;
+	margin-left: 40px; 
+	margin-top: 40px;
+
+}
+
+legend{	
+	margin-left: 40px;
+	font-size: 20px;
+	color: #E91E63;
+}
+option, .ms{
+	font-size: 15px;
+	width: 100%;
+}
+.plan{
+
+	display: inline;
+	list-style:none;
+}
+
+select, .pl{
+	padding: 10px;
+}
+.fields{
+	border-color: red;
+	text-align: left;  
+	width: 70%; 
+	height: 400px;
+	margin-left: 17%;
+	margin-top: 5%;
+
+}
+.red{
+	color: #7B241C;
+	padding: 20px;
+
+}
+
+.laa li{
+	text-decoration: none;
+}
+.nnn{
+	padding: 10px;
+	margin-left: 40px;
+	width: 400px;
+}
+.cont{
+
+}
+label, .nnn{
+	margin-left: 40px;
+
+}
+
+.fields1{
+	border-color: #E54E8C;
+	text-align: left;  
+	width: 70%; 
+	height: 800px;
+	margin-left: 17%;
+	margin-top: 5%;
+}
+.pie{
+	background: black;
+	margin-top: 10%;
+	height: 200px;
+	border-top: 10px solid #FF0040;
+	color: white;
+
+}
+.pie img{
+	margin-top: 10px;
+	margin-left: 250px;
+}
+.pie p{
+	margin-top: 40px;
+	margin-left: 250px;
+	padding: 10px;
+}
+.pl{
+	margin-left: 40px;
+}
+.plaa{
+	margin-left: 40px;
+}
+.list{
+	justify-content: center;
+}
+.ace{
+	position: absolute;
+	margin-left: 8.6%;
+	margin-top: 0.5%;
+}
+.button{
+	text-decoration: none;
+	position: absolute;
+	top: 145%;
+	left:  33.6%;
+	width: 130px;
+	height: 45px;
+	background: red;
+	overflow: hidden;
+}
+.button ul{
+	list-style: none;
+	background: red;
+	width: 315px;
+	display: flex;
+	padding: 10px;
+	margin-left: 6px;
+	float: left;
+}
+.button li a{
+	font-size: 25px;
+	text-decoration: none;
+	color: white;
+}
+.social ul li a {
+display: inline-block;
+color:#fff;
+background: #000;
+padding: 10px 15px;
+text-decoration: none;
+-webkit-transition:all 500ms ease;
+-o-transition:all 500ms ease;
+transition:all 500ms ease; 
+}
+ 
+.social ul li .icon-facebook {
+	background:#3b5998;
+} 
+.social ul li .icon-twitter {
+	background: #00abf0;
+}
+.social ul li .icon-googleplus {
+	background: #d95232;
+}
+.social ul li .icon-pinterest {
+	background: #ae181f;
+}
+.social ul li .icon-mail {
+	background: #666666;
+}
+
+.social ul li a:hover {
+	background: #000; 
+	padding: 10px 30px; 
+}
+.social {
+	position: fixed; 
+	left: 0; 
+	top: 500px; 
+	z-index: 2000; 
+ }
+.social ul {
+	list-style: none;
+}
+ 
+.social ul li a {
+display: inline-block;
+color:#fff;
+background: #000;
+padding: 10px 20px;
+text-decoration: none;
+-webkit-transition:all 500ms ease;
+-o-transition:all 500ms ease;
+transition:all 500ms ease; 
+}
+ 
+.social ul li #face {
+	background:#3b5998;
+} 
+.social ul li #twi {
+	background: #00abf0;
+	padding-right: 12px;
+}
+.social ul li #goo {
+	background: #d95232;
+	padding-right: 8.2px;
+}
+.social ul li #pin {
+	background: #ae181f;
+	padding-right: 16px;
+}
+.social ul li #gma {
+	background: #666666;
+	padding-right: 12px;
+}
+.social ul li a:hover {
+	background: #000; 
+	padding: 10px 30px; 
+}
+

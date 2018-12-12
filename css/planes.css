@@ -1,0 +1,234 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: arial;
+}
+.title{
+	width: 50%;
+}
+body{
+	background: #D7DBDD;
+}
+header{
+	background-color: white;
+}
+.t1{
+	margin-left: 195px;
+	font-size: 62px;
+}
+.t2{
+	margin-top: 10%;
+	margin-left: 32%;
+}
+.logo{
+	margin-left: 100px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.BG{
+	margin: 70px;
+}
+.logobg{
+	margin-left: 165px;
+}
+.imgg{
+	width: 100px;
+	height: 60px;
+}
+.des{
+	color: red;
+	font-size: 35px;
+}
+article{
+	float: left;
+	font-size: 20px;
+}
+.tituuno{
+	color: #E91E63;
+	margin-left: 93%;
+	margin-top: 17%;
+	font-size: 50px;
+}
+
+.Gra{
+	position: absolute;
+	background: gray;
+	width: 396px;
+	height: 200px;
+	left: 25.70%;
+	top: 40%;
+	text-align: center;
+	margin-left: 10%;
+	margin-top: 20px;
+}
+.unoo{
+	color: #00FF33;
+	font-size: 150px;
+	border-right: 3px solid white;
+}
+.onu{
+	color: white;
+	font-size: 40px;
+}
+.pre{
+	position: absolute;
+	background: gray;
+	width: 388px;
+	height: 200px;
+	left: 41.50%;
+	top: 40%;
+	text-align: center;
+	margin-left: 10%;
+	margin-top: 20px;
+}
+.pree{
+	color: #CC6600;
+	font-size: 150px;
+	border-right:3px solid white;
+}
+.pr{
+	color: white;
+	font-size: 40px;
+}
+.pro{
+	position: absolute;
+	color: #E91E63;
+	top:35%;
+	left:69.50%;
+	font-size: 50px;
+}
+.ult{
+	position: absolute;
+	background: gray;
+	width: 400px;
+	height: 200px;
+	left: 57%;
+	top: 40%;
+	text-align: center;
+	margin-left: 10%;
+	margin-top: 20px;
+}
+.ultt{
+	color: #00CCFF;
+	font-size: 150px;
+	border-right:3px solid white;
+}
+
+.ua{
+	color: white;
+	font-size: 40px;
+}
+table{
+	position: absolute;
+	width: 68%;
+	left: -15% ;
+	top: 10px;
+	margin-right: 20%;
+	text-align:left;
+	margin-left: 30%;
+    margin-top: 30%;
+}
+
+
+tr, td{
+	width: 400px;
+	text-align: center;
+	border-bottom: 1px solid gray;
+	padding: 30px;
+	font-size: 20px;
+}
+.n1,.n2,.n3,.n4,.n5,.n6,.n7{
+	text-align: left;
+}
+.E{
+	font-size: 35px;
+}
+.button{
+	text-decoration: none;
+	position: absolute;
+	top: 110%;
+	left:  75%;
+	width: 200px;
+	height: 50px;
+	background: red;
+	overflow: hidden;
+}
+.button ul{
+	list-style: none;
+	background: red;
+	width: 315px;
+	display: flex;
+	padding: 10px;
+	margin-left: 6px;
+	float: left;
+}
+.button li a{
+	font-size: 25px;
+	text-decoration: none;
+	color: white;
+}
+.pie{
+	background: black;
+	margin-top: 45%;
+	height: 200px;
+	border-top: 10px solid #FF0040;
+	color: white;
+
+}
+.pie img{
+	margin-top: 10px;
+	margin-left: 200px;
+}
+.pie p{
+	margin-top: 40px;
+	margin-left: 195px;
+	padding: 10px;
+}
+footer{
+	clear: both;
+}
+.social {
+	position: fixed; 
+	left: 0; 
+	top: 500px; 
+	z-index: 2000; 
+ }
+.social ul {
+	list-style: none;
+}
+ 
+.social ul li a {
+display: inline-block;
+color:#fff;
+background: #000;
+padding: 10px 20px;
+text-decoration: none;
+-webkit-transition:all 500ms ease;
+-o-transition:all 500ms ease;
+transition:all 500ms ease; 
+}
+ 
+.social ul li #face {
+	background:#3b5998;
+} 
+.social ul li #twi {
+	background: #00abf0;
+	padding-right: 12px;
+}
+.social ul li #goo {
+	background: #d95232;
+	padding-right: 8.2px;
+}
+.social ul li #pin {
+	background: #ae181f;
+	padding-right: 16px;
+}
+.social ul li #gma {
+	background: #666666;
+	padding-right: 12px;
+}
+.social ul li a:hover {
+	background: #000; 
+	padding: 10px 30px; 
+}
